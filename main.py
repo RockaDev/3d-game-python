@@ -166,7 +166,7 @@ tree = Entity(
     scale=(1,1,1)
 )
 
-city = Entity(
+tower = Entity(
     model = "assets/tower.obj",
     texture="assets/textures/tower.jpg",
     collider="mesh",
